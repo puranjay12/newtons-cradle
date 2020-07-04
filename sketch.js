@@ -36,7 +36,7 @@ ball5 = new Ball(510,600,20)
 
 function draw() {
   rectMode(CENTER);
-  background("pink");
+  background("white");
   ground1.display()
   ball1.display()
   ball2.display()
